@@ -52,6 +52,7 @@ public class MainActivity extends Activity {
 			@Override
 			public boolean onQueryTextChange(String newText) {
 				// TODO Auto-generated method stub
+				Toast.makeText(getBaseContext(), "Writing on the search bar: "+newText, Toast.LENGTH_SHORT).show();
 				return false;
 			}
 		});
