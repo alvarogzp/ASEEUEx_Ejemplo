@@ -9,5 +9,14 @@
     <string name="title_activity_display_message">My Message</string>
     <string name="action_compose">Compound</string>
     <string name="action_search">Search</string>
+    <string name="share">Compartir</string>
+    <string name="empty">Vacío</string>
+    <string name="action_delete">Borrar</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="other_text">Otro texto</string>
+    <string name="photo">Foto</string>
+    <string name="text_item_detail">Texto grande</string>
+    <string name="pref_pers">Mantenerse conectado</string>
+    <string name="pref_pers_summ">Conexión persistente</string>
 
 </resources>

@@ -5,8 +5,8 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="11"
-        android:targetSdkVersion="17" />
+        android:minSdkVersion="14"
+        android:targetSdkVersion="18" />
 
     <application
         android:allowBackup="true"
@@ -29,6 +29,10 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.asee_002.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.asee_002.DetailActivity"
+            android:label="@string/title_activity_detail" >
         </activity>
     </application>
 
